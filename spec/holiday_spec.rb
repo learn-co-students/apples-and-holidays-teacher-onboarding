@@ -1,3 +1,5 @@
+
+require 'pry'
 describe "holiday_supplies_hash" do
 # Hash of seasons, the holidays in them, and some items each holiday might have.
   let(:holiday_supplies) {
